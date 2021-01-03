@@ -1,0 +1,10 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\bin\Debug\Save the Eggs Game MOO ICT.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\bin\Debug\Save the Eggs Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\bin\Debug\Save the Eggs Game MOO ICT.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\obj\Debug\Save the Eggs Game MOO ICT.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\obj\Debug\Save_the_Eggs_Game_MOO_ICT.Form1.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\obj\Debug\Save_the_Eggs_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\obj\Debug\Save the Eggs Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\obj\Debug\Save the Eggs Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\obj\Debug\Save the Eggs Game MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Save the Eggs Game MOO ICT\Save the Eggs Game MOO ICT\obj\Debug\Save the Eggs Game MOO ICT.pdb
